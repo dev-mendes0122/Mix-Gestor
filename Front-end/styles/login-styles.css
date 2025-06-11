@@ -1,0 +1,21 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.boxlogin {
+    background-color: blue;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+}
+
+body {
+    margin: 0;
+    height: 100vh; /* ocupa 100% da altura da tela */
+    display: flex;
+    justify-content: center; /* centraliza horizontalmente */
+    align-items: center;     /* centraliza verticalmente */
+    background-color: #ab9a9a;
+  }
